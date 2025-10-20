@@ -17,7 +17,7 @@
 - Сохранение артефактов и итоговые выводы
 
 ## Основные результаты
-- Лучшая модель: **XGBoost (AUC ≈ 0.87)** (сравнение ![Model metrics](model comparison/final_model_metrics.csv)
+- Лучшая модель: **XGBoost (AUC ≈ 0.87)** (сравнение ![Model metrics](model_comparison/final_model_metrics.csv)
 - Ключевые факторы оттока:
   - `Age` — риск оттока растёт с возрастом.
   - `NumOfProducts` — клиенты с 3–4 продуктами уходят чаще.
