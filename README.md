@@ -27,8 +27,11 @@
 
 ## Важные графики
 [Feature Importance](images/feature_importance.png)
+
 [SHAP summary](images/shap_summary.png)
+
 [ROC Curve](images/roc_curve.png)
+
 [Correlation Heatmap](images/correlation_heatmap.png)
 
 ## 💡 Выводы
