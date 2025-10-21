@@ -18,7 +18,7 @@
 
 Материалы проекта: [изображения](images/), [модели](models/).
 ## Основные результаты
-- Лучшая модель: **XGBoost (AUC ≈ 0.87)** (сравнение ![Моделей](model_comparison/final_model_metrics.csv))
+- Лучшая модель: **XGBoost (AUC ≈ 0.87)** (сравнение [Моделей](model_comparison/final_model_metrics.csv))
 - Ключевые факторы оттока:
   - `Age` — риск оттока растёт с возрастом.
   - `NumOfProducts` — клиенты с 3–4 продуктами уходят чаще.
@@ -26,10 +26,10 @@
   - `BalanceGeoDiff` — отклонение баланса от среднего по стране.
 
 ## Важные графики
-![Feature Importance](images/feature_importance.png)
-![SHAP summary](images/shap_summary.png)
-![ROC Curve](images/roc_curve.png)
-![Correlation Heatmap](images/correlation_heatmap.png)
+[Feature Importance](images/feature_importance.png)
+[SHAP summary](images/shap_summary.png)
+[ROC Curve](images/roc_curve.png)
+[Correlation Heatmap](images/correlation_heatmap.png)
 
 ## 💡 Выводы
 - На отток клиентов влияют возраст, активность и количество продуктов.
